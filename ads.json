@@ -1,0 +1,49 @@
+{
+   "Ads": [
+    {
+    "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      
+    }
+  ],"DATA_ARTICLE":
+  [
+    {
+      "title":"Doa Minta Keturunan yang Dibaca Nabi Ibrahim",
+      "description":"Nabi Ibrahim as pernah memanjatkan doa kepada Allah SWT untuk memohon keturunan yang sholeh dan sholehah.",
+      "image":"file:///android_asset/bayi.jpg",
+      "link":"<p>Nabi Ibrahim as pernah memanjatkan doa kepada Allah SWT untuk memohon keturunan yang sholeh dan sholehah. Karena dengan hadirnya anak yang sholeh dan sholehah, maka hal tersebut bisa semakin mendekatkan orang tuanya kepada Allah SWT.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GI0J_WhoKEHRj_cs6IqI8T6Ihh9LBgkm5P8DdOAg4SvKLtXcAQABdH1_hiZ9ct2_-f4&amp;usqp=CAU\" alt=\"\" width=\"300\" height=\"168\" /></p>\n<p>Sahabat Dream pun juga bisa memanjatkan doa yang dibaca oleh Nabi Ibrahim as tersebut. Berikut adalah doa minta keturunan yang sholeh dan sholehah yang dibaca oleh Nabi Ibrahim as:</p>\n<p style=\"word-wrap: break-word; max-width: auto; text-align: right; font-size: 24px;\">رَبِّ هَبْ لِيْ مِنَ الصّٰلِحِيْنَ</p>\n<p style=\"text-align: left;\"><em>Robbi hablii minash shoolihiin.</em></p>\n<p><strong>Artinya:</strong><em> &ldquo; </em>Ya Rabb anugerahkanlah padaku dari sisi-Mu keturunan yang thoyyib yaitu anak yang sholeh. Sesungguhnya Engkau Maha Mendengar doa.<em>&rdquo;</em>&nbsp;</p>"    },
+    {
+      "title":"Doa Minta Keturunan yang Dibaca Nabi Zakariya",
+      "description":"Tidak hanya Nabi Ibrahim as saja, Nabi Zakariya as pun juga pernah membaca doa untuk memohon keturunan pada Allah SWT.",
+      "image":"https://s3.bukalapak.com/bukalapak-kontenz-production/content_attachments/87983/w-740/nama_bayi_laki_laki_2.jpg",
+      "link":"file:///android_asset/guide.html"
+    }
+  ,
+    {
+      "title":"Doa Minta Keturunan dalam Surat Al-Furqon Ayat 74",
+      "description":"Doa minta keturunan yang bisa sahabat Dream amalkan juga ada dalam Al-Quran surat Al-Furqon ayat 74.",
+      "image":"https://img.inews.co.id/media/600/files/networks/2023/04/09/b77da_inspirasi-nama-bayi.jpg",
+      "link":"https://aliendro.id"
+    }
+
+  ]
+}
